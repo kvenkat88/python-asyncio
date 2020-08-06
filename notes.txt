@@ -1,0 +1,16 @@
+Making 1 million requests with python-aiohttp
+---------------------------------------------
+https://pawelmhm.github.io/asyncio/python/aiohttp/2016/04/22/asyncio-aiohttp.html
+https://skipperkongen.dk/2016/09/09/easy-parallel-http-requests-with-python-and-asyncio/
+https://julien.danjou.info/python-and-fast-http-clients/
+https://stackoverflow.com/questions/2632520/what-is-the-fastest-way-to-send-100-000-http-requests-in-python
+https://testdriven.io/blog/concurrency-parallelism-asyncio/
+
+https://breadcrumbscollector.tech/what-is-asyncios-ensure_future/
+https://pypi.org/project/aiohttp/
+https://docs.aiohttp.org/en/v3.0.1/client_quickstart.html
+https://stackoverflow.com/questions/29269370/how-to-properly-create-and-run-concurrent-tasks-using-pythons-asyncio-module
+https://stackoverflow.com/questions/48175958/how-can-i-schedule-multiple-tasks-using-asyncio-constructs-in-a-loop
+https://www.integralist.co.uk/posts/python-asyncio/#running-an-asyncio-program
+https://stackoverflow.com/questions/32054066/python-how-to-run-multiple-coroutines-concurrently-using-asyncio
+https://stackoverflow.com/questions/46013037/asyncio-run-multiple-tasks-while-preserving-order-and-handling-errors
